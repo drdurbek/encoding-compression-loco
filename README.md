@@ -6,6 +6,18 @@ Changes are limited to path configuration, execution instructions and four stale
 diagnostic messages. Scientific equations, parameters, selection rules, seeds,
 classification thresholds and plot styles are retained.
 
+## Authors, citation and license
+
+Software authors, in order: Durbek Usmanov, Allison Hubel, and Bakhtiyor Rasulev.
+Their institutional affiliations and software citation metadata are recorded in
+`CITATION.cff`. Version `1.0.0` is the version prepared for the first software
+release; its DOI will be added after Zenodo issues it.
+
+The author-developed source code and accompanying documentation are distributed
+under the MIT License; see `LICENSE`. Third-party dependencies retain their own
+licenses. This software license does not assign new reuse terms to third-party
+data or to the separately deposited Curated dataset.
+
 ## Data location and names
 
 Pass your existing `Curated` folder to `--data-root`. The package reads:
@@ -116,8 +128,24 @@ match. See `metadata/path_update_validation.json` and `metadata/path_changes.jso
 No model fitting, prediction generation or figure rendering was performed for
 this update. This is not full scientific workflow validation.
 
+## Subsequent Windows verification
+
+The archived models were subsequently run on Windows with Python 3.12.10.
+All four prediction sets were reproduced: classification held-out (128 rows),
+classification blind (34), Tg held-out (55), and Tg blind (20). Classification
+probabilities matched the saved predictions exactly; maximum absolute Tg
+prediction differences were below 1e-10 K. The deposit audit passed all 61
+checks. These checks used saved models and saved validation predictions;
+they did not rerun feature selection, DAGA, LOCO or nested LOCO training.
+
+The prediction CSVs, audit report, recomputed metrics and exact installed package
+versions are provided in `validation/windows-check/`. The Windows requirements
+file records the verified inference/audit environment; additional dependencies
+for full training and figure generation are listed in `requirements.in`.
+
 Previously recorded scientific input and retraining questions are not corrected
 by changing paths. The incomplete, partly incorrect structure collection is
 excluded from the data at the author's direction; ML starts from the supplied
-component descriptors. No license, contributor order, DOI or external publication
-is invented by this preparation.
+component descriptors. Software authors, affiliations and MIT licensing are
+recorded above. Publication identifiers are added only after they have been
+issued by their services.

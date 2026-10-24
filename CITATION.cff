@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "encoding-compression-loco"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/drdurbek/encoding-compression-loco"
+url: "https://github.com/drdurbek/encoding-compression-loco"
+authors:
+  - family-names: Usmanov
+    given-names: Durbek
+    affiliation: >-
+      Department of Coatings and Polymeric Materials, North Dakota State University,
+      Fargo, ND, USA; Materials and Nanotechnology (MNT) Program,
+      North Dakota State University, Fargo, ND, USA.
+  - family-names: Hubel
+    given-names: Allison
+    affiliation: >-
+      Department of Mechanical Engineering, University of Minnesota,
+      Minneapolis, MN, USA; Department of Biomedical Engineering,
+      University of Minnesota, Minneapolis, MN, USA.
+  - family-names: Rasulev
+    given-names: Bakhtiyor
+    affiliation: >-
+      Department of Coatings and Polymeric Materials, North Dakota State University,
+      Fargo, ND, USA; Materials and Nanotechnology (MNT) Program,
+      North Dakota State University, Fargo, ND, USA.
+abstract: >-
+  Code for encoding, descriptor compression, and leave-one-component-out validation
+  of multicomponent materials, using NADES classification and glass-transition
+  temperature regression as case studies.
+keywords:
+  - multicomponent materials
+  - NADES
+  - molecular descriptors
+  - descriptor compression
+  - leave-one-component-out validation
+  - glass-transition temperature
