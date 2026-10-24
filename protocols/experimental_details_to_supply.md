@@ -1,0 +1,3 @@
+# Experimental details needed if a laboratory protocol is deposited
+
+The supplied code cannot establish a laboratory procedure. Provide the actual laboratory records for component purity and suppliers; weighing and ratio basis; water measurement/control; mixing order, temperature, duration and equipment; equilibration and storage; independent eutectic-formation criteria and observation times; replicates and failures; and the actual Tg measurement instrument, calibration, sample mass, pans, thermal program, scan rates, Tg definition and uncertainty treatment. Add safety instructions based on the reagents actually used. Do not invent temperatures, durations, DSC settings or a phase-equilibrium claim from a binary modelling label.

@@ -1,0 +1,20 @@
+{
+  "study_data_present": true,
+  "archived_model_prediction_verified": true,
+  "full_pipeline_reproduced": false,
+  "canonical_scripts_fully_confirmed": false,
+  "remaining": [
+    "Complete original environment including Python and package versions",
+    "Cause of classification fresh-fit discrepancy",
+    "Author confirmation of physical water_frc basis",
+    "Complete component-to-structure registry and descriptor-generation settings",
+    "Final figure/table source assignment",
+    "Confirmed software/data contributor and license metadata",
+    "Real GitHub/Zenodo/protocol identifiers after deposition"
+  ],
+  "ab_position_swap": {
+    "status": "not_performed",
+    "author_confirmed": "2026-10-22"
+  },
+  "publication_authorized_by_user": true
+}

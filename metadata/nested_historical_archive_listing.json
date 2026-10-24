@@ -1,0 +1,1272 @@
+[
+  {
+    "path": "Final40_blind_prediction_probabilities.pdf",
+    "size": 23975,
+    "is_file": true
+  },
+  {
+    "path": "Final40_blind_prediction_summary.csv",
+    "size": 1046,
+    "is_file": true
+  },
+  {
+    "path": "Final40_blind_predictions.csv",
+    "size": 2297,
+    "is_file": true
+  },
+  {
+    "path": "Final40_blind_prediction_probabilities.png",
+    "size": 492446,
+    "is_file": true
+  },
+  {
+    "path": "all_descriptor_prefilter_scores.csv",
+    "size": 11777469,
+    "is_file": true
+  },
+  {
+    "path": "GA_candidate_descriptor_names.txt",
+    "size": 14241,
+    "is_file": true
+  },
+  {
+    "path": "GA_candidate_descriptors_1000.csv",
+    "size": 399291,
+    "is_file": true
+  },
+  {
+    "path": "GA_prefilter_summary.csv",
+    "size": 375,
+    "is_file": true
+  },
+  {
+    "path": "prefilter1000_baseline_fold_metrics.csv",
+    "size": 1385,
+    "is_file": true
+  },
+  {
+    "path": "prefilter1000_baseline_oof_predictions.csv",
+    "size": 66617,
+    "is_file": true
+  },
+  {
+    "path": "prefilter1000_baseline_summary.csv",
+    "size": 1175,
+    "is_file": true
+  },
+  {
+    "path": "prefilter1000_baseline_threshold_scan.csv",
+    "size": 44089,
+    "is_file": true
+  },
+  {
+    "path": "prefilter1000_baseline_blind_predictions.csv",
+    "size": 3876,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_best_model_blind_predictions.csv",
+    "size": 2502,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_best_family_composition.csv",
+    "size": 157,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_best_selected_descriptors.csv",
+    "size": 16436,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_descriptor_stability.csv",
+    "size": 31456,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_feature_selection_history.csv",
+    "size": 14886,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_feature_selection_runs.csv",
+    "size": 6711,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_best_model_oof_predictions.csv",
+    "size": 48102,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_best_model_summary.csv",
+    "size": 894,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_best_model_threshold_scan.csv",
+    "size": 14796,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_blind_predictions.csv",
+    "size": 2293,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_feature_importance.csv",
+    "size": 1110,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_metrics.csv",
+    "size": 376,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_model_bundle.joblib",
+    "size": 405550,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_OOF_predictions.csv",
+    "size": 38534,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_threshold_scan.csv",
+    "size": 2,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors/Final40_xgboost_model.json",
+    "size": 464791,
+    "is_file": true
+  },
+  {
+    "path": "molec/1.mol",
+    "size": 3250,
+    "is_file": true
+  },
+  {
+    "path": "molec/10.mol",
+    "size": 1886,
+    "is_file": true
+  },
+  {
+    "path": "molec/102.mol",
+    "size": 1088,
+    "is_file": true
+  },
+  {
+    "path": "molec/106.mol",
+    "size": 994,
+    "is_file": true
+  },
+  {
+    "path": "molec/117.mol",
+    "size": 2239,
+    "is_file": true
+  },
+  {
+    "path": "molec/118.mol",
+    "size": 2333,
+    "is_file": true
+  },
+  {
+    "path": "molec/12.mol",
+    "size": 2051,
+    "is_file": true
+  },
+  {
+    "path": "molec/121.mol",
+    "size": 1769,
+    "is_file": true
+  },
+  {
+    "path": "molec/126.mol",
+    "size": 1957,
+    "is_file": true
+  },
+  {
+    "path": "molec/13.mol",
+    "size": 3649,
+    "is_file": true
+  },
+  {
+    "path": "molec/131.mol",
+    "size": 7292,
+    "is_file": true
+  },
+  {
+    "path": "molec/132.mol",
+    "size": 2356,
+    "is_file": true
+  },
+  {
+    "path": "molec/133.mol",
+    "size": 2051,
+    "is_file": true
+  },
+  {
+    "path": "molec/136.mol",
+    "size": 1652,
+    "is_file": true
+  },
+  {
+    "path": "molec/137.mol",
+    "size": 1957,
+    "is_file": true
+  },
+  {
+    "path": "molec/138.mol",
+    "size": 1863,
+    "is_file": true
+  },
+  {
+    "path": "molec/140.mol",
+    "size": 2122,
+    "is_file": true
+  },
+  {
+    "path": "molec/143.mol",
+    "size": 1276,
+    "is_file": true
+  },
+  {
+    "path": "molec/15.mol",
+    "size": 1581,
+    "is_file": true
+  },
+  {
+    "path": "molec/16.mol",
+    "size": 1675,
+    "is_file": true
+  },
+  {
+    "path": "molec/23.mol",
+    "size": 2122,
+    "is_file": true
+  },
+  {
+    "path": "molec/31.mol",
+    "size": 3883,
+    "is_file": true
+  },
+  {
+    "path": "molec/32.mol",
+    "size": 712,
+    "is_file": true
+  },
+  {
+    "path": "molec/35.mol",
+    "size": 1370,
+    "is_file": true
+  },
+  {
+    "path": "molec/4.mol",
+    "size": 3250,
+    "is_file": true
+  },
+  {
+    "path": "molec/45.mol",
+    "size": 1698,
+    "is_file": true
+  },
+  {
+    "path": "molec/48.mol",
+    "size": 1370,
+    "is_file": true
+  },
+  {
+    "path": "molec/5.mol",
+    "size": 1276,
+    "is_file": true
+  },
+  {
+    "path": "molec/55.mol",
+    "size": 806,
+    "is_file": true
+  },
+  {
+    "path": "molec/70.mol",
+    "size": 3626,
+    "is_file": true
+  },
+  {
+    "path": "molec/73.mol",
+    "size": 3743,
+    "is_file": true
+  },
+  {
+    "path": "molec/85.mol",
+    "size": 3954,
+    "is_file": true
+  },
+  {
+    "path": "molec/88.mol",
+    "size": 4190,
+    "is_file": true
+  },
+  {
+    "path": "molec/9.mol",
+    "size": 3156,
+    "is_file": true
+  },
+  {
+    "path": "molec/93.mol",
+    "size": 2498,
+    "is_file": true
+  },
+  {
+    "path": "molec/97.mol",
+    "size": 2780,
+    "is_file": true
+  },
+  {
+    "path": "molec/list.scr",
+    "size": 17843,
+    "is_file": true
+  },
+  {
+    "path": "molec/NADES_audit_annotated.xlsx",
+    "size": 50833,
+    "is_file": true
+  },
+  {
+    "path": "molec/new/111.txt",
+    "size": 130109,
+    "is_file": true
+  },
+  {
+    "path": "molec/new/cholinechloride.mol",
+    "size": 2193,
+    "is_file": true
+  },
+  {
+    "path": "molec/new/guanHCl.mol",
+    "size": 1065,
+    "is_file": true
+  },
+  {
+    "path": "molec/new.txt",
+    "size": 1760236,
+    "is_file": true
+  },
+  {
+    "path": "molec/Original_component.xlsx",
+    "size": 6749469,
+    "is_file": true
+  },
+  {
+    "path": "molec/original_with_ratio.csv",
+    "size": 37233,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/full_descriptor_cleaning_summary.csv",
+    "size": 176,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_1000_descriptor_coordinates.csv",
+    "size": 45412,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_before_after_compression.pdf",
+    "size": 44036,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_before_after_compression.png",
+    "size": 2031971,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_comparison_summary.csv",
+    "size": 232,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_compressed_1000_descriptor_space.pdf",
+    "size": 25810,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_compressed_1000_descriptor_space.png",
+    "size": 1197077,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_full_cleaned_coordinates.csv",
+    "size": 43184,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_full_cleaned_descriptor_space.pdf",
+    "size": 24981,
+    "is_file": true
+  },
+  {
+    "path": "UMAP_compression_comparison/UMAP_full_cleaned_descriptor_space.png",
+    "size": 1220528,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/all_subset_best_descriptors.csv",
+    "size": 85560,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/fixed_train_test_split.csv",
+    "size": 12483,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/Performance_plateau_analysis.pdf",
+    "size": 20929,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/Performance_plateau_analysis.png",
+    "size": 710881,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/Performance_plateau_analysis.tiff",
+    "size": 122116190,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/best_family_composition.csv",
+    "size": 176,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/best_model_oof_predictions.csv",
+    "size": 52192,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/best_selected_descriptors.csv",
+    "size": 4511,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/descriptor_stability.csv",
+    "size": 8921,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/GA_history.csv",
+    "size": 8174,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/GA_runs.csv",
+    "size": 2388,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/model_bundle.joblib",
+    "size": 419599,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/subset_summary.csv",
+    "size": 1035,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/test_predictions.csv",
+    "size": 10110,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/threshold_scan.csv",
+    "size": 16621,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/train_predictions.csv",
+    "size": 40302,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/train_test_metrics.csv",
+    "size": 621,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10/xgboost_model.json",
+    "size": 436172,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/best_family_composition.csv",
+    "size": 178,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/best_model_oof_predictions.csv",
+    "size": 52112,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/best_selected_descriptors.csv",
+    "size": 8599,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/descriptor_stability.csv",
+    "size": 16689,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/GA_history.csv",
+    "size": 8320,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/GA_runs.csv",
+    "size": 3298,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/model_bundle.joblib",
+    "size": 421767,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/subset_summary.csv",
+    "size": 1040,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/test_predictions.csv",
+    "size": 10052,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/threshold_scan.csv",
+    "size": 16689,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/train_predictions.csv",
+    "size": 40314,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/train_test_metrics.csv",
+    "size": 622,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20/xgboost_model.json",
+    "size": 441783,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/best_family_composition.csv",
+    "size": 225,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/best_model_oof_predictions.csv",
+    "size": 52204,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/best_selected_descriptors.csv",
+    "size": 12635,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/descriptor_stability.csv",
+    "size": 23997,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/GA_history.csv",
+    "size": 8277,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/GA_runs.csv",
+    "size": 4300,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/model_bundle.joblib",
+    "size": 405759,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/subset_summary.csv",
+    "size": 1052,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/test_predictions.csv",
+    "size": 10072,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/threshold_scan.csv",
+    "size": 16601,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/train_predictions.csv",
+    "size": 40380,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/train_test_metrics.csv",
+    "size": 593,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30/xgboost_model.json",
+    "size": 412958,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/best_family_composition.csv",
+    "size": 183,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/best_model_oof_predictions.csv",
+    "size": 51793,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/best_selected_descriptors.csv",
+    "size": 16717,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/descriptor_stability.csv",
+    "size": 31970,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/GA_history.csv",
+    "size": 8195,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/GA_runs.csv",
+    "size": 5289,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/model_bundle.joblib",
+    "size": 404055,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/subset_summary.csv",
+    "size": 1049,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/test_predictions.csv",
+    "size": 10003,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/threshold_scan.csv",
+    "size": 16686,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/train_predictions.csv",
+    "size": 39866,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/train_test_metrics.csv",
+    "size": 589,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40/xgboost_model.json",
+    "size": 410224,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/best_family_composition.csv",
+    "size": 181,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/best_model_oof_predictions.csv",
+    "size": 52239,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/best_selected_descriptors.csv",
+    "size": 20729,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/descriptor_stability.csv",
+    "size": 40230,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/GA_history.csv",
+    "size": 8324,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/GA_runs.csv",
+    "size": 6008,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/model_bundle.joblib",
+    "size": 402671,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/subset_summary.csv",
+    "size": 1040,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/test_predictions.csv",
+    "size": 10101,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/threshold_scan.csv",
+    "size": 16573,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/train_predictions.csv",
+    "size": 40459,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/train_test_metrics.csv",
+    "size": 592,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50/xgboost_model.json",
+    "size": 407931,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/best_family_composition.csv",
+    "size": 228,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/best_model_oof_predictions.csv",
+    "size": 44610,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/best_selected_descriptors.csv",
+    "size": 24774,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/descriptor_stability.csv",
+    "size": 44981,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/GA_history.csv",
+    "size": 8175,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/GA_runs.csv",
+    "size": 6931,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/model_bundle.joblib",
+    "size": 397239,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/subset_summary.csv",
+    "size": 1054,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/test_predictions.csv",
+    "size": 8206,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/threshold_scan.csv",
+    "size": 16693,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/train_predictions.csv",
+    "size": 32751,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/train_test_metrics.csv",
+    "size": 562,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60/xgboost_model.json",
+    "size": 397538,
+    "is_file": true
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_size_comparison.csv",
+    "size": 2301,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_PR_AUC_per_component.pdf",
+    "size": 22843,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_PR_AUC_per_component.png",
+    "size": 657128,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_PR_curves_top_components.pdf",
+    "size": 20916,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_PR_curves_top_components.png",
+    "size": 780878,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_ROC_AUC_per_component.pdf",
+    "size": 22978,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_ROC_AUC_per_component.png",
+    "size": 613666,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_ROC_curves_top_components.pdf",
+    "size": 17511,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/figures/Final40_LOCO_ROC_curves_top_components.png",
+    "size": 627813,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_class_conditional_absolute_SHAP_top20.pdf",
+    "size": 24907,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_class_conditional_absolute_SHAP_top20.png",
+    "size": 502365,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_class_conditional_SHAP_heatmap_top20.pdf",
+    "size": 24875,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_class_conditional_SHAP_heatmap_top20.png",
+    "size": 495780,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_class_conditional_SHAP_heldout_test.csv",
+    "size": 5457,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_LOCO_AL_candidates.csv",
+    "size": 6127,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_LOCO_component_results.csv",
+    "size": 9841,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_LOCO_sample_predictions.csv",
+    "size": 117623,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_LOCO_summary.csv",
+    "size": 1249,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_OOF_calibration.pdf",
+    "size": 17304,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_OOF_calibration.png",
+    "size": 369552,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_beeswarm_heldout_test_top20.pdf",
+    "size": 53220,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_beeswarm_heldout_test_top20.png",
+    "size": 665372,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_beeswarm_top20.pdf",
+    "size": 141872,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_beeswarm_top20.png",
+    "size": 1713253,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_custom_beeswarm_top20.pdf",
+    "size": 361609,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_custom_beeswarm_top20.png",
+    "size": 5786345,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_dependence_AB_prod_Mor11v.pdf",
+    "size": 19062,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_dependence_AB_prod_Mor11v.png",
+    "size": 270185,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_dependence_B_VE1sign_B(v).pdf",
+    "size": 23533,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_dependence_B_VE1sign_B(v).png",
+    "size": 333623,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_dependence_mix_nR06.pdf",
+    "size": 19495,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_dependence_mix_nR06.png",
+    "size": 279338,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_descriptor_importance.csv",
+    "size": 976,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_global_importance_top20.pdf",
+    "size": 21127,
+    "is_file": true
+  },
+  {
+    "path": "Final40_LOCO/Final40_SHAP_global_importance_top20.png",
+    "size": 528413,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_class_conditional_absolute_SHAP_top20.pdf",
+    "size": 24795,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_class_conditional_absolute_SHAP_top20.png",
+    "size": 490383,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_class_conditional_SHAP_heatmap_top20.pdf",
+    "size": 24733,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_class_conditional_SHAP_heatmap_top20.png",
+    "size": 465265,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_class_conditional_SHAP_heldout_test.csv",
+    "size": 5468,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_confusion_matrices_train_test.png",
+    "size": 174468,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_CV_fold_metrics.csv",
+    "size": 1208,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_CV_OOF_predictions.csv",
+    "size": 72352,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_CV_ROC_PR.pdf",
+    "size": 37726,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_CV_ROC_PR.png",
+    "size": 709338,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_CV_summary_metrics.csv",
+    "size": 983,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_feature_importance.csv",
+    "size": 1109,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_full_dataset_model_bundle.joblib",
+    "size": 404324,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_full_dataset_xgboost_model.json",
+    "size": 462294,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_heldout_bootstrap_CI.csv",
+    "size": 396,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_heldout_threshold_metrics_bootstrap_CI.csv",
+    "size": 775,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_heldout_top6_SHAP_descriptor_rainclouds.pdf",
+    "size": 76485,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_heldout_top6_SHAP_descriptor_rainclouds.png",
+    "size": 1308242,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_heldout_top6_SHAP_descriptor_summary.csv",
+    "size": 655,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_OOF_calibration_bins.csv",
+    "size": 644,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_OOF_calibration_reliability.pdf",
+    "size": 16600,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_OOF_calibration_reliability.png",
+    "size": 372270,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_PR_train_test.png",
+    "size": 176810,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_ROC_PR_Test_thr064.pdf",
+    "size": 23812,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_ROC_PR_Test_thr064.png",
+    "size": 419505,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_ROC_PR_Test_thr065.pdf",
+    "size": 24457,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_ROC_PR_Test_thr065.png",
+    "size": 422771,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_ROC_train_test.png",
+    "size": 237354,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_SHAP_beeswarm_heldout_test_top20.pdf",
+    "size": 193160,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_SHAP_beeswarm_heldout_test_top20.png",
+    "size": 2973308,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_test_predictions.csv",
+    "size": 10626,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_top8_descriptor_rainclouds.pdf",
+    "size": 133907,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_top8_descriptor_rainclouds.png",
+    "size": 2796568,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_top8_descriptor_statistics.csv",
+    "size": 1567,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_train_predictions.csv",
+    "size": 42315,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_train_subset_model_bundle.joblib",
+    "size": 378945,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_train_subset_xgboost_model.json",
+    "size": 417309,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_train_test_metrics.csv",
+    "size": 563,
+    "is_file": true
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test/Final40_train_test_split.csv",
+    "size": 12483,
+    "is_file": true
+  },
+  {
+    "path": "molec/new",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_10",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_20",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_30",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_40",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_50",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison/subset_60",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "Final40_LOCO/figures",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "Final_XGBoost_40_descriptors",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "molec",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "UMAP_compression_comparison",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "DiversityGA_SubsetSize_Comparison",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "Final40_LOCO",
+    "size": 0,
+    "is_file": false
+  },
+  {
+    "path": "Final_XGBoost_40_Train_Test",
+    "size": 0,
+    "is_file": false
+  }
+]

@@ -1,0 +1,1977 @@
+[
+  {
+    "path": "07092026New/07092026New.rar",
+    "size": 39229898,
+    "dir": false
+  },
+  {
+    "path": "07092026New/a.csv",
+    "size": 23060390,
+    "dir": false
+  },
+  {
+    "path": "07092026New/all_descriptor_metadata.csv",
+    "size": 1654041,
+    "dir": false
+  },
+  {
+    "path": "07092026New/b.csv",
+    "size": 23004689,
+    "dir": false
+  },
+  {
+    "path": "07092026New/blind.csv",
+    "size": 1067,
+    "dir": false
+  },
+  {
+    "path": "07092026New/blind_with_activity.csv",
+    "size": 1144,
+    "dir": false
+  },
+  {
+    "path": "07092026New/c.csv",
+    "size": 7187284,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_cleaning_log.csv",
+    "size": 448,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_metrics.csv",
+    "size": 1511,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_metrics.pdf",
+    "size": 23880,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_metrics.png",
+    "size": 613404,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_paired_bootstrap_contrasts.csv",
+    "size": 8083,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_predictions.csv",
+    "size": 17410,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_probability_heatmap.pdf",
+    "size": 26276,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_probability_heatmap.png",
+    "size": 436899,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF/blind_family_selected_features.csv",
+    "size": 179306,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/classification_pooled_repeat_metrics.csv",
+    "size": 2217,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/family_readout_crossfitted.pdf",
+    "size": 30317,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/family_readout_crossfitted.png",
+    "size": 1129628,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/paired_delta_summary.csv",
+    "size": 4100,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/paired_family_deltas.csv",
+    "size": 53148,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/per_fold_cleaning_log.csv",
+    "size": 29074,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/per_fold_predictions.csv",
+    "size": 1298639,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/per_fold_readouts.csv",
+    "size": 50536,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/per_fold_selected_features.csv",
+    "size": 9082209,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/tg_logo_parent_metrics.csv",
+    "size": 36058,
+    "dir": false
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF/tg_logo_pooled_metrics.csv",
+    "size": 811,
+    "dir": false
+  },
+  {
+    "path": "07092026New/d.csv",
+    "size": 4180908,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/all_subset_best_descriptors.csv",
+    "size": 85235,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/fixed_train_test_split.csv",
+    "size": 14403,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/Performance_plateau_analysis.pdf",
+    "size": 21906,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/Performance_plateau_analysis.png",
+    "size": 715169,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/Performance_plateau_analysis.tiff",
+    "size": 124069894,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/best_family_composition.csv",
+    "size": 176,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/best_model_oof_predictions.csv",
+    "size": 51787,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/best_selected_descriptors.csv",
+    "size": 4499,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/descriptor_stability.csv",
+    "size": 8553,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/GA_history.csv",
+    "size": 8298,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/GA_runs.csv",
+    "size": 2354,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/selected_features.txt",
+    "size": 127,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/subset_summary.csv",
+    "size": 716,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10/threshold_scan.csv",
+    "size": 14816,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/best_family_composition.csv",
+    "size": 178,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/best_model_oof_predictions.csv",
+    "size": 52152,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/best_selected_descriptors.csv",
+    "size": 8557,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/descriptor_stability.csv",
+    "size": 16708,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/GA_history.csv",
+    "size": 8337,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/GA_runs.csv",
+    "size": 3314,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/selected_features.txt",
+    "size": 280,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/subset_summary.csv",
+    "size": 718,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20/threshold_scan.csv",
+    "size": 14878,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/best_family_composition.csv",
+    "size": 224,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/best_model_oof_predictions.csv",
+    "size": 52156,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/best_selected_descriptors.csv",
+    "size": 12584,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/descriptor_stability.csv",
+    "size": 24421,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/GA_history.csv",
+    "size": 8363,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/GA_runs.csv",
+    "size": 4333,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/selected_features.txt",
+    "size": 418,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/subset_summary.csv",
+    "size": 749,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30/threshold_scan.csv",
+    "size": 14773,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/best_family_composition.csv",
+    "size": 184,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/best_model_oof_predictions.csv",
+    "size": 51729,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/best_selected_descriptors.csv",
+    "size": 16615,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/descriptor_stability.csv",
+    "size": 31809,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/GA_history.csv",
+    "size": 8336,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/GA_runs.csv",
+    "size": 5092,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/selected_features.txt",
+    "size": 557,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/subset_summary.csv",
+    "size": 712,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40/threshold_scan.csv",
+    "size": 14895,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/best_family_composition.csv",
+    "size": 183,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/best_model_oof_predictions.csv",
+    "size": 52212,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/best_selected_descriptors.csv",
+    "size": 20689,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/descriptor_stability.csv",
+    "size": 39334,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/GA_history.csv",
+    "size": 8403,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/GA_runs.csv",
+    "size": 6076,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/selected_features.txt",
+    "size": 702,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/subset_summary.csv",
+    "size": 719,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50/threshold_scan.csv",
+    "size": 14718,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/best_family_composition.csv",
+    "size": 227,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/best_model_oof_predictions.csv",
+    "size": 52169,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/best_selected_descriptors.csv",
+    "size": 24696,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/descriptor_stability.csv",
+    "size": 46744,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/GA_history.csv",
+    "size": 8236,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/GA_runs.csv",
+    "size": 6997,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/selected_features.txt",
+    "size": 839,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/subset_summary.csv",
+    "size": 749,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60/threshold_scan.csv",
+    "size": 14848,
+    "dir": false
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_size_comparison.csv",
+    "size": 2661,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_feature_importance.csv",
+    "size": 1466,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_full_dataset_model_bundle.joblib",
+    "size": 404879,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_full_dataset_xgboost_model.json",
+    "size": 461066,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_internal_evaluation_predictions.csv",
+    "size": 12372,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_PR_train_test.png",
+    "size": 222496,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_ROC_PR_internal_evaluation.pdf",
+    "size": 24884,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_ROC_PR_internal_evaluation.png",
+    "size": 448863,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_ROC_train_test.png",
+    "size": 237945,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_selected_descriptors.csv",
+    "size": 20692,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_train_internal_evaluation_metrics.csv",
+    "size": 693,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_train_predictions.csv",
+    "size": 41982,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_train_subset_model_bundle.joblib",
+    "size": 371001,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final50_train_subset_xgboost_model.json",
+    "size": 400885,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation/Final60_internal_evaluation_predictions.csv",
+    "size": 12446,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_Component_B_family_probabilities.pdf",
+    "size": 23434,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_Component_B_family_probabilities.png",
+    "size": 400383,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_family_only_heatmap.pdf",
+    "size": 26646,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_family_only_heatmap.png",
+    "size": 490128,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_family_only_probabilities_long.csv",
+    "size": 8706,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_family_only_probabilities_wide.csv",
+    "size": 2412,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_blind_family_only_summary.csv",
+    "size": 1457,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_heldout_bootstrap_CI.csv",
+    "size": 397,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe/Final60_heldout_threshold_metrics_bootstrap_CI.csv",
+    "size": 772,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_blind_predictions.csv",
+    "size": 2252,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_blind_prediction_probabilities.pdf",
+    "size": 23995,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_blind_prediction_probabilities.png",
+    "size": 519203,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_blind_prediction_summary.csv",
+    "size": 693,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Component_B_TrainOnly_OOF/Final60_Component_B_train_only_fold_metrics.csv",
+    "size": 678,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Component_B_TrainOnly_OOF/Final60_Component_B_train_only_OOF_predictions.csv",
+    "size": 27768,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Component_B_TrainOnly_OOF/Final60_Component_B_train_only_OOF_ROC_PR.pdf",
+    "size": 28005,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Component_B_TrainOnly_OOF/Final60_Component_B_train_only_OOF_ROC_PR.png",
+    "size": 483351,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Component_B_TrainOnly_OOF/Final60_Component_B_train_only_OOF_summary.csv",
+    "size": 439,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_confusion_matrices_train_test.png",
+    "size": 144186,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_CV_fold_metrics.csv",
+    "size": 1225,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_CV_OOF_predictions.csv",
+    "size": 71927,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_CV_ROC_PR.pdf",
+    "size": 37800,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_CV_ROC_PR.png",
+    "size": 714044,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_CV_summary_metrics.csv",
+    "size": 1000,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_ROC_PR_Test_thr042.pdf",
+    "size": 24213,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final40_ROC_PR_Test_thr042.png",
+    "size": 417745,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_feature_importance.csv",
+    "size": 1759,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_full_dataset_model_bundle.joblib",
+    "size": 398962,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_full_dataset_xgboost_model.json",
+    "size": 451671,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_internal_evaluation_predictions.csv",
+    "size": 12436,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_PR_train_test.png",
+    "size": 175846,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_ROC_PR_Test_thr042.pdf",
+    "size": 21719,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_ROC_PR_Test_thr042.png",
+    "size": 387508,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_ROC_train_test.png",
+    "size": 236776,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_selected_descriptors.csv",
+    "size": 24697,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_TrainOnly_CV_fold_metrics.csv",
+    "size": 1310,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_TrainOnly_CV_OOF_predictions.csv",
+    "size": 57544,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_TrainOnly_CV_ROC_PR.pdf",
+    "size": 33860,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_TrainOnly_CV_ROC_PR.png",
+    "size": 640543,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_TrainOnly_CV_summary_metrics.csv",
+    "size": 1044,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_train_internal_evaluation_metrics.csv",
+    "size": 683,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_train_predictions.csv",
+    "size": 42003,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_train_subset_model_bundle.joblib",
+    "size": 364444,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation/Final60_train_subset_xgboost_model.json",
+    "size": 389776,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_AL_candidates.csv",
+    "size": 2530,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_component_results.csv",
+    "size": 8185,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_PR_AUC_per_component.pdf",
+    "size": 22815,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_PR_AUC_per_component.png",
+    "size": 711500,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_PR_curves_top_components.pdf",
+    "size": 20503,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_PR_curves_top_components.png",
+    "size": 695338,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_ROC_AUC_per_component.pdf",
+    "size": 22159,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_ROC_AUC_per_component.png",
+    "size": 664285,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_ROC_curves_top_components.pdf",
+    "size": 17388,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_ROC_curves_top_components.png",
+    "size": 610669,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_sample_predictions.csv",
+    "size": 116770,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_LOCO/Final60_LOCO_summary.csv",
+    "size": 947,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_benchmark_settings.csv",
+    "size": 605,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_OOF_metrics.csv",
+    "size": 1436,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_OOF_predictions_long.csv",
+    "size": 241150,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_OOF_reliability.pdf",
+    "size": 23067,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_OOF_reliability.png",
+    "size": 725788,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_OOF_ROC_PR.pdf",
+    "size": 26657,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF/model_family_OOF_ROC_PR.png",
+    "size": 605548,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison/Final60_kNN_retention_per_sample.csv",
+    "size": 51292,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison/Final60_train_only_cleaning_summary.csv",
+    "size": 201,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison/Final60_UMAP_compression_summary.csv",
+    "size": 419,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison/Final60_UMAP_coordinates_all_representations.csv",
+    "size": 92623,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison/Final60_UMAP_full_1000_60_comparison.pdf",
+    "size": 47252,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison/Final60_UMAP_full_1000_60_comparison.png",
+    "size": 2204048,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final_clean_split_seed42.csv",
+    "size": 12471,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final_technical_clean_feature_names.txt",
+    "size": 433307,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Final_trainonly_prefilter_scores.csv",
+    "size": 11749049,
+    "dir": false
+  },
+  {
+    "path": "07092026New/GA_candidate_descriptors_1000.csv",
+    "size": 398988,
+    "dir": false
+  },
+  {
+    "path": "07092026New/GA_candidate_descriptor_names.txt",
+    "size": 14228,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Manuscript_Figures/Figure_3_Endpoint_conditioned_family_readouts.pdf",
+    "size": 52269,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Manuscript_Figures/Figure_3_Endpoint_conditioned_family_readouts.png",
+    "size": 685052,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Manuscript_Figures/Figure_3_Endpoint_conditioned_family_readouts.tiff",
+    "size": 92189042,
+    "dir": false
+  },
+  {
+    "path": "07092026New/master_blind_features.csv",
+    "size": 14256326,
+    "dir": false
+  },
+  {
+    "path": "07092026New/master_train_features.csv",
+    "size": 246955786,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_componentwise_validation.pdf",
+    "size": 55844,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_componentwise_validation.png",
+    "size": 832613,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_componentwise_validation.svg",
+    "size": 138377,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_component_results.csv",
+    "size": 6539,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_descriptor_selection_frequency.csv",
+    "size": 57150,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_family_composition.csv",
+    "size": 1363,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_fold_selected_features.csv",
+    "size": 51286,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_representation_stability.pdf",
+    "size": 48072,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_representation_stability.png",
+    "size": 674913,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_representation_stability.svg",
+    "size": 124370,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_sample_predictions.csv",
+    "size": 45346,
+    "dir": false
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60/NestedLOCO_summary.csv",
+    "size": 737,
+    "dir": false
+  },
+  {
+    "path": "07092026New/original.csv",
+    "size": 21715,
+    "dir": false
+  },
+  {
+    "path": "07092026New/prefilter_summary.csv",
+    "size": 555,
+    "dir": false
+  },
+  {
+    "path": "07092026New/Table1-4.xlsx",
+    "size": 87328,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/a.csv",
+    "size": 9201167,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/b.csv",
+    "size": 9504779,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind.csv",
+    "size": 730,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/a.csv",
+    "size": 1759446,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/b.csv",
+    "size": 1789070,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/blind2.csv",
+    "size": 2022,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/blind2_with_activity.csv",
+    "size": 2368,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/c.csv",
+    "size": 339614,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/d.csv",
+    "size": 339614,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/master_blind2_features.csv",
+    "size": 19810295,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol/112.mol",
+    "size": 900,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol/113.mol",
+    "size": 1934,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol/114.mol",
+    "size": 1863,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol/115.mol",
+    "size": 2663,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol/116.mol",
+    "size": 3156,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol/123.txt",
+    "size": 279065,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_bootstrap_intervals.csv",
+    "size": 11612,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_cleaning_log.csv",
+    "size": 451,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_external_metrics.csv",
+    "size": 2336,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_metrics_by_AD.csv",
+    "size": 4266,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_metrics_by_novelty.csv",
+    "size": 5241,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_predictions_with_AD.csv",
+    "size": 170931,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_family_selected_features.csv",
+    "size": 178230,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_novelty_and_parent_groups.csv",
+    "size": 6049,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation/blind2_paired_family_bootstrap_contrasts.csv",
+    "size": 5793,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_applicability_domain_leverage.csv",
+    "size": 20907,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_family_bootstrap_ci.csv",
+    "size": 2675,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_family_cleaning_log.csv",
+    "size": 463,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_family_metrics.csv",
+    "size": 2107,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_family_predictions_long.csv",
+    "size": 49419,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_family_predictions_wide.csv",
+    "size": 6177,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_family_selected_features.csv",
+    "size": 178230,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF/blind2_paired_family_deltas.csv",
+    "size": 1550,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/blind2_pure_vs_aqueous_paired_bootstrap_contrasts.csv",
+    "size": 4748,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_blind2_bootstrap_intervals.csv",
+    "size": 11636,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_blind2_metrics.csv",
+    "size": 2342,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_blind2_metrics_by_AD.csv",
+    "size": 3544,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_blind2_metrics_by_novelty.csv",
+    "size": 5269,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_blind2_predictions_with_AD.csv",
+    "size": 136054,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_final_cleaning_log.csv",
+    "size": 561,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_final_selected_features.csv",
+    "size": 176292,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_logo_bootstrap_intervals.csv",
+    "size": 13183,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_logo_cleaning_log.csv",
+    "size": 25985,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_logo_oof_predictions.csv",
+    "size": 81969,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_logo_paired_family_bootstrap_contrasts.csv",
+    "size": 9241,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_logo_pooled_metrics.csv",
+    "size": 2366,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2/pure_nades_logo_selected_features.csv",
+    "size": 8642105,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind_water_frc.csv",
+    "size": 206,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind_with_activity.csv",
+    "size": 879,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/c.csv",
+    "size": 5434922,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/d.csv",
+    "size": 2680036,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/master_blind_features.csv",
+    "size": 10811045,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/master_blind_features1.csv",
+    "size": 8287549,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/master_train_features.csv",
+    "size": 110777041,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/master_train_features1.csv",
+    "size": 100186261,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/normalized_original.csv",
+    "size": 5824836,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/original.csv",
+    "size": 10612,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/original_water_frc.csv",
+    "size": 2211,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/Table1-4.xlsx",
+    "size": 58908,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_clean_split_seed42.csv",
+    "size": 22320,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_core_nades_groups.csv",
+    "size": 17183,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_cleaning_log.csv",
+    "size": 451,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_metrics.csv",
+    "size": 722,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_metrics.pdf",
+    "size": 18867,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_metrics.png",
+    "size": 576786,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_parity.pdf",
+    "size": 27789,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_parity.png",
+    "size": 1011863,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_predictions.csv",
+    "size": 11912,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF/blind_concentration_family_selected_features.csv",
+    "size": 178230,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_fixed_group_split.csv",
+    "size": 22011,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_full_dataset_RF_bundle.joblib",
+    "size": 1265612,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_group_level_predictions.csv",
+    "size": 876,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_internal_evaluation_metrics.csv",
+    "size": 1037,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_internal_evaluation_predictions.csv",
+    "size": 7134,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_outer_train_RF_bundle.joblib",
+    "size": 1191711,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_train_and_heldout_parity.pdf",
+    "size": 21599,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation/TG_Final10_train_and_heldout_parity.png",
+    "size": 689323,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF/TG_Final60_family_descriptor_counts.csv",
+    "size": 113,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF/TG_Final60_family_only_fold_metrics.csv",
+    "size": 3345,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF/TG_Final60_family_only_group_OOF_metrics.csv",
+    "size": 1764,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF/TG_Final60_family_only_group_OOF_metrics.pdf",
+    "size": 25159,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF/TG_Final60_family_only_group_OOF_metrics.png",
+    "size": 516632,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF/TG_Final60_family_only_group_OOF_predictions.csv",
+    "size": 158717,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF/TG_Final60_model_family_benchmark_settings.csv",
+    "size": 567,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF/TG_Final60_model_family_group_OOF_fold_metrics.csv",
+    "size": 2653,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF/TG_Final60_model_family_group_OOF_metrics.csv",
+    "size": 1428,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF/TG_Final60_model_family_group_OOF_metrics.pdf",
+    "size": 24260,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF/TG_Final60_model_family_group_OOF_metrics.png",
+    "size": 438126,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF/TG_Final60_model_family_group_OOF_predictions_long.csv",
+    "size": 126806,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_External_Blind_Evaluation/TG_Final60_external_blind_metrics.csv",
+    "size": 255,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_External_Blind_Evaluation/TG_Final60_external_blind_parity.pdf",
+    "size": 20614,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_External_Blind_Evaluation/TG_Final60_external_blind_parity.png",
+    "size": 670108,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_External_Blind_Evaluation/TG_Final60_external_blind_predictions.csv",
+    "size": 1551,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_External_Blind_Evaluation/TG_Final60_full_train_RF_for_external_blind.joblib",
+    "size": 1309856,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_fixed_group_split.csv",
+    "size": 22011,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_full_dataset_RF_bundle.joblib",
+    "size": 1309927,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_group_level_predictions.csv",
+    "size": 877,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_internal_evaluation_metrics.csv",
+    "size": 1031,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_internal_evaluation_predictions.csv",
+    "size": 7132,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_outer_train_RF_bundle.joblib",
+    "size": 1228106,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_train_and_heldout_parity.pdf",
+    "size": 21608,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_train_and_heldout_parity.png",
+    "size": 693136,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_component_results.csv",
+    "size": 2491,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_R2_per_component.pdf",
+    "size": 24727,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_R2_per_component.png",
+    "size": 425667,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_RMSE_per_component.pdf",
+    "size": 21324,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_RMSE_per_component.png",
+    "size": 433418,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_sample_predictions.csv",
+    "size": 111544,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO/TG_Final60_LOCO_summary.csv",
+    "size": 596,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison/TG_Final60_compression_geometry_summary.csv",
+    "size": 403,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison/TG_Final60_kNN_retention_per_sample.csv",
+    "size": 45154,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison/TG_Final60_train_only_cleaning_summary.csv",
+    "size": 192,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison/TG_Final60_UMAP_coordinates_train_only.csv",
+    "size": 74743,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison/TG_Final60_UMAP_full_560_60_comparison.pdf",
+    "size": 38615,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison/TG_Final60_UMAP_full_560_60_comparison.png",
+    "size": 1718056,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_GA_candidate_descriptors_1000.csv",
+    "size": 197429,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_GA_candidate_descriptor_names.txt",
+    "size": 8108,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_prefilter_summary.csv",
+    "size": 621,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_10/best_selected_descriptors.csv",
+    "size": 3934,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_10/ga_generation_history.csv",
+    "size": 3370,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_10/ga_run_summary.csv",
+    "size": 1325,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_20/best_selected_descriptors.csv",
+    "size": 7421,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_20/ga_generation_history.csv",
+    "size": 3462,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_20/ga_run_summary.csv",
+    "size": 1556,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_30/best_selected_descriptors.csv",
+    "size": 10963,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_30/ga_generation_history.csv",
+    "size": 3454,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_30/ga_run_summary.csv",
+    "size": 1823,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_40/best_selected_descriptors.csv",
+    "size": 14490,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_40/ga_generation_history.csv",
+    "size": 3436,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_40/ga_run_summary.csv",
+    "size": 2049,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_50/best_selected_descriptors.csv",
+    "size": 18012,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_50/ga_generation_history.csv",
+    "size": 3450,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_50/ga_run_summary.csv",
+    "size": 2313,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_60/best_selected_descriptors.csv",
+    "size": 21523,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_60/ga_generation_history.csv",
+    "size": 3458,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_60/ga_run_summary.csv",
+    "size": 2560,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_fixed_group_train_test_split.csv",
+    "size": 21368,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_all_GA_runs.csv",
+    "size": 10576,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_all_subset_best_descriptors.csv",
+    "size": 75384,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_mean_OOF_RMSE_vs_subset_size.pdf",
+    "size": 19091,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_mean_OOF_RMSE_vs_subset_size.png",
+    "size": 396654,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_mean_OOF_RMSE_vs_subset_size.tiff",
+    "size": 75592646,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_subset_size_comparison.csv",
+    "size": 2078,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/TG_RF_subset_size_mean_sd_summary.csv",
+    "size": 816,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_technical_clean_feature_names.txt",
+    "size": 362385,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_trainonly_prefilter_scores.csv",
+    "size": 8846224,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/legacy_weighted_only_feature_importance.csv",
+    "size": 59593,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/legacy_weighted_only_heldout_predictions.csv",
+    "size": 6092,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/legacy_weighted_only_outer_train_RF_bundle.joblib",
+    "size": 1181766,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/legacy_weighted_only_trainonly_SHAP_importance.csv",
+    "size": 95010,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/legacy_weighted_only_trainonly_SHAP_top35_features.csv",
+    "size": 1909,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/legacy_weighted_only_train_clean_features.txt",
+    "size": 15233,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/Tg_grouped_heldout_encoding_comparison_predictions.csv",
+    "size": 8208,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/Tg_grouped_heldout_encoding_comparison_summary.csv",
+    "size": 658,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/Tg_grouped_heldout_paired_bootstrap_deltas.csv",
+    "size": 359,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/Tg_grouped_heldout_weighted_only_vs_Final60_parity.pdf",
+    "size": 27761,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator/Tg_grouped_heldout_weighted_only_vs_Final60_parity.png",
+    "size": 711256,
+    "dir": false
+  },
+  {
+    "path": "07092026New/TG/blind2/mol",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Robust_Validation",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_Family_Blind2_Validation_RF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/blind2/TG_PureNADES_Control_LOCO_Blind2",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_10",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_20",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_30",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_40",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_50",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison/subset_60",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_10",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_20",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_30",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_40",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_50",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison/subset_60",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/blind2",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Family_Blind_Concentration_Validation_RF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final10_RF_Internal_Evaluation",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Family_Only_TrainOnly_OOF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_Model_Family_Benchmark_GroupOOF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_External_Blind_Evaluation",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_Internal_Evaluation",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_RF_LOCO",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_Final60_UMAP_Compression_Comparison",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_RF_DiversityGA_SubsetSize_Comparison",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG/TG_WeightedOnly_RF_Grouped_Comparator",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Classification_Family_Blind_Validation_RF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/CrossTask_Family_Multisplit_RF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/DiversityGA_SubsetSize_Comparison",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final50_Internal_Evaluation",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final60_Blind_Family_Probe",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final60_Component_B_TrainOnly_OOF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final60_Internal_Evaluation",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final60_LOCO",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final60_Model_Family_Benchmark_OOF",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Final60_UMAP_Compression_Comparison",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/Manuscript_Figures",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/NestedLOCO_Final60",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/poly",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New/TG",
+    "size": 0,
+    "dir": true
+  },
+  {
+    "path": "07092026New",
+    "size": 0,
+    "dir": true
+  }
+]

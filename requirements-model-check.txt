@@ -1,0 +1,9 @@
+# Tested for the audit and four archived-model predictions on Python 3.12.14/Linux.
+# XGBoost 2.1.3 and sklearn 1.5.2 are evidenced in saved author artifacts.
+# Other versions are audit versions, not recovered original provenance.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.5.2
+xgboost==2.1.3
+joblib==1.5.3

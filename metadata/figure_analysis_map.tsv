@@ -1,0 +1,12 @@
+manuscript_item	analysis	candidate_ids	status
+Main Fig. 1	Conceptual workflow	Artwork/source diagram	No computational regeneration asserted
+Main Fig. 2	Encoding and compression workflow	classification_01/02; tg_01/02/03/04	Confirm reported stage counts and cleaning scopes
+Main Fig. 3	Held-out and post-selection model performance	classification_06/08/09/10/20/21/22; tg_08	Choose actual plot source; preserve evaluation versus deployment distinction
+Main Fig. 4	Fixed-Final60 component withholding	classification_11/12; tg_12	Not fully nested descriptor selection
+Main Fig. 5	Nested classification representation stability	classification_27/28/29	Per-fold saved feature lists required
+Main Fig. 6	Classification blind and family probes	classification_14/15/16/17; classification_25/26	Figure uses postselection family probe; equal-budget outputs are a distinct analysis
+Main Fig. 7	Tg selected-family decomposition and blind concentration	tg_10/13	Distinguish Tg deployment results from family-only OOF
+Supplementary Fig. 1	Descriptor-size sweep	classification_03/04; tg_05/06	Caption/legend metrics and final seed/run must be confirmed
+Supplementary Fig. 2	Train-fit descriptor-space geometry	classification_05; tg_07	Three spaces; save PCA/UMAP settings and coordinates
+Equal-budget family comparison	Cross-fitted K=8 comparisons	classification_24	Runs both endpoints; preserve different splitters
+External DES diagnostic	Frozen and anhydrous-control analyses	tg_15/16/17/18/19	Several historical variants; select exact final outputs

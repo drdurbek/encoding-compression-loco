@@ -1,0 +1,12 @@
+{
+  "xgboost": {
+    "version": "2.1.3",
+    "evidence": "Version array in saved XGBoost model JSON"
+  },
+  "scikit-learn": {
+    "version": "1.5.2",
+    "evidence": "Serialized estimator version metadata in author bundles"
+  },
+  "python_numpy_scipy_and_other_original_versions": "not recovered",
+  "tested_model_environment": "requirements-model-check.txt"
+}

@@ -1,0 +1,209 @@
+{
+  "analyses": 45,
+  "path_edits": 389,
+  "algorithm_equivalence": [
+    {
+      "id": "tg_01",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_02",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_03",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_04",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_05",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_06",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_07",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_08",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_10",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_11",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_12",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_13",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_14",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_15",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_16",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_17",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_18",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "tg_19",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_01",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_02",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_03",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_04",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_05",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_06",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_07",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_08",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_09",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_10",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_11",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_12",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_14",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_15",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_16",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_17",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_18",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_20",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_21",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_22",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_23",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_24",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_25",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_26",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_27",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_28",
+      "calculation_ast_identical_after_path_normalization": true
+    },
+    {
+      "id": "classification_29",
+      "calculation_ast_identical_after_path_normalization": true
+    }
+  ],
+  "tool_equivalence": [
+    {
+      "file": "tools/verify_deposit.py",
+      "nonpath_ast_identical": true
+    },
+    {
+      "file": "tools/predict_archived_models.py",
+      "nonpath_ast_identical": true
+    }
+  ],
+  "path_tests": 13,
+  "path_tests_passed": true,
+  "package_hash_check": {
+    "canonical_files": 312,
+    "missing": [],
+    "hash_mismatches": [],
+    "hashes_checked": true,
+    "data_root": "/tmp/nades_path_update_20261024/data/Zenodo_Curated/Curated",
+    "passed": true
+  },
+  "scientific_analyses_executed": false,
+  "new_predictions_generated": false,
+  "figures_rendered": false
+}

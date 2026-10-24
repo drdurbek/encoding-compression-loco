@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Cite the verified archived software version accompanying the manuscript."
+type: software
+title: "When validation strictness changes the verdict: representation and leave-one-component-out evaluation in multicomponent materials"
+authors:
+  - family-names: Usmanov
+    given-names: Durbek
+  - family-names: Hubel
+    given-names: Allison
+  - family-names: Rasulev
+    given-names: Bakhtiyor
+abstract: "Code for mixture representation, descriptor compression and chemically structured validation in NADES classification and Tg regression."
+keywords:
+  - multicomponent materials
+  - molecular descriptors
+  - leave-one-component-out validation
+  - reproducibility

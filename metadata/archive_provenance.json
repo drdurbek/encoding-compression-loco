@@ -1,0 +1,12 @@
+{
+  "uploaded_filename": "07092026New.rar",
+  "bytes": 152670297,
+  "sha256": "d4327e8886d3787f32a53aa65c71a19a3c424f957b48762ecb504a5740e54030",
+  "original_files": 353,
+  "uncompressed_bytes": 1021331479,
+  "data_zip_excludes": [
+    "Nested older 07092026New.rar (checksum and inventory retained)",
+    "Transient extraction files absent from the original archive listing"
+  ],
+  "historical_structure_files_recovered": 38
+}
