@@ -1,0 +1,5 @@
+source,n,roc_auc,ap_nades,ap_non_nades,balanced_accuracy,mcc,tn,fp,fn,tp,r2,rmse_K,mae_K,held_out_component,component_held_out,variant,family
+Final60_Internal_Evaluation/Final60_internal_evaluation_predictions.csv,128,0.8767876787678768,0.9581795390400032,0.7609267838353861,0.7900623395672901,0.6273351718458524,17.0,10.0,5.0,96.0,,,,,,,
+Final60_blind_predictions.csv + blind_with_activity.csv,34,0.5501730103806228,0.5579278986905928,0.5939146365616954,0.588235294117647,0.1886083840385794,7.0,10.0,4.0,13.0,,,,,,,
+TG/TG_Final60_RF_Internal_Evaluation/TG_Final60_internal_evaluation_predictions.csv,55,,,,,,,,,,0.556469884648432,10.68354619601878,8.631246950942128,,,,
+TG/TG_Final60_RF_External_Blind_Evaluation/TG_Final60_external_blind_predictions.csv,20,,,,,,,,,,0.5325050628343102,11.223558491446488,9.96987798073691,,,,

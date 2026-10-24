@@ -1,0 +1,151 @@
+classification_01: compiled; 1 project-path literals remapped; not_runtime_verified
+========================================================================
+BUILDING RAW STOICHIOMETRY-AWARE MASTER DATASETS
+========================================================================
+Loaded a.csv: 673 rows × 5668 columns
+Loaded b.csv: 673 rows × 5668 columns
+Loaded c.csv: 673 rows × 5668 columns
+Loaded d.csv: 673 rows × 5668 columns
+
+Merged table shape: (673, 22669)
+
+All descriptor bases: 5666
+Shared A/B descriptor bases: 5666
+First 20 descriptor bases: ['AAC', 'AECC', 'ALOGP', 'ALOGP2', 'AMR', 'AMW', 'AP', 'AROM', 'ARR', 'ASP', 'ATS1e', 'ATS1i', 'ATS1m', 'ATS1p', 'ATS1s', 'ATS1v', 'ATS2e', 'ATS2i', 'ATS2m', 'ATS2p']
+
+Generating arithmetic mean descriptors for 5666 descriptor bases...
+Generating stoichiometry-weighted descriptors for 5666 descriptor bases...
+Generating A/B interaction descriptors for 5666 descriptor bases...
+A/B ratio mode: directed
+
+Final master shape: (673, 56683)
+
+Mixtures by number of components:
+n_components
+2    509
+3    138
+4     26
+Name: count, dtype: int64
+
+========================================================================
+SAVED
+========================================================================
+Train: /workspace/scratch/77094457be9b/rebuild/project/master_train_features.csv
+Blind: /workspace/scratch/77094457be9b/rebuild/project/master_blind_features.csv
+
+Train shape: (639, 56684)
+Blind shape: (34, 56683)
+
+Activity balance:
+activity
+0    137
+1    502
+Name: count, dtype: int64
+
+Activity percentages:
+activity
+0    21.44
+1    78.56
+Name: proportion, dtype: float64
+
+Feature cleaning, imputation, scaling, PCA, SMOTE/class weighting and XGBoost modeling must be performed later.
+
+✅ Raw master datasets created successfully.
+tg_01: compiled; 1 project-path literals remapped; not_runtime_verified
+========================================================================
+BUILDING RAW STOICHIOMETRY-AWARE MASTER DATASETS
+========================================================================
+Loaded a.csv: 283 rows × 5668 columns
+Loaded b.csv: 283 rows × 5668 columns
+Loaded c.csv: 283 rows × 5668 columns
+Loaded d.csv: 283 rows × 5668 columns
+
+Merged table shape: (283, 22669)
+
+All descriptor bases: 5666
+Shared A/B descriptor bases: 5666
+First 20 descriptor bases: ['AAC', 'AECC', 'ALOGP', 'ALOGP2', 'AMR', 'AMW', 'AP', 'AROM', 'ARR', 'ASP', 'ATS1e', 'ATS1i', 'ATS1m', 'ATS1p', 'ATS1s', 'ATS1v', 'ATS2e', 'ATS2i', 'ATS2m', 'ATS2p']
+
+Generating arithmetic mean descriptors for 5666 descriptor bases...
+Generating stoichiometry-weighted descriptors for 5666 descriptor bases...
+Generating A/B interaction descriptors for 5666 descriptor bases...
+A/B ratio mode: directed
+
+Final master shape: (283, 56683)
+
+Mixtures by number of components:
+n_components
+2     80
+3    118
+4     85
+Name: count, dtype: int64
+
+========================================================================
+SAVED
+========================================================================
+Train: /workspace/scratch/77094457be9b/rebuild/project/TG/master_train_features1.csv
+Blind: /workspace/scratch/77094457be9b/rebuild/project/TG/master_blind_features1.csv
+
+Train shape: (263, 56684)
+Blind shape: (20, 56683)
+
+Activity balance:
+activity
+150.28    1
+152.63    1
+153.96    1
+155.05    1
+155.72    1
+         ..
+219.27    1
+219.51    1
+219.78    1
+219.83    1
+220.61    1
+Name: count, Length: 256, dtype: int64
+
+Activity percentages:
+activity
+150.28    0.38
+152.63    0.38
+153.96    0.38
+155.05    0.38
+155.72    0.38
+          ... 
+219.27    0.38
+219.51    0.38
+219.78    0.38
+219.83    0.38
+220.61    0.38
+Name: proportion, Length: 256, dtype: float64
+
+Encoding for NADES_TG project.
+
+✅ Raw master datasets created successfully.
+tg_02: compiled; 1 project-path literals remapped; not_runtime_verified
+Training master: 263 rows | 56682 descriptors scaled | c_NADES range = [0.2000, 1.0000]
+Blind master: 20 rows | 56682 descriptors scaled | c_NADES range = [0.0500, 0.1000]
+
+Saved concentration-aware Tg matrices:
+ - /workspace/scratch/77094457be9b/rebuild/project/TG/master_train_features.csv
+ - /workspace/scratch/77094457be9b/rebuild/project/TG/master_blind_features.csv
+
+Code and activity were preserved without scaling.
+tg_03: compiled; 1 project-path literals remapped; not_runtime_verified
+================================================================================
+TG CORE NADES GROUPS CREATED
+================================================================================
+Rows                 : 263
+Unique parent NADES  : 33
+
+Number of groups by concentration-series length:
+count
+7     1
+8    32
+Name: count, dtype: int64
+
+Saved:
+ - /workspace/scratch/77094457be9b/rebuild/project/TG/TG_core_nades_groups.csv
+ - /workspace/scratch/77094457be9b/rebuild/project/TG/master_train_features.csv
+
+Core_NADES_ID is metadata for grouped validation; it is not a model descriptor.

@@ -1,0 +1,245 @@
+{
+  "original_blocks": [
+    {
+      "id": "tg_01",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_02",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_03",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_04",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_05",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_06",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_07",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_08",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_09",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_10",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_11",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_12",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_13",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_14",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_15",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_16",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_17",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_18",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "tg_19",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_01",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_02",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_03",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_04",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_05",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_06",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_07",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_08",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_09",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_10",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_11",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_12",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_13",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_14",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_15",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_16",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_17",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_18",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_19",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_20",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_21",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_22",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_23",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_24",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_25",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_26",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_27",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_28",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    },
+    {
+      "id": "classification_29",
+      "source_hash_unchanged": true,
+      "syntax_valid": true
+    }
+  ],
+  "new_tools_compile": true
+}

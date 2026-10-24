@@ -1,0 +1,373 @@
+{
+  "scope": "Archive integrity, encoding consistency and saved-prediction metrics; optional fixed-feature refits only. No full pipeline reproduction.",
+  "checks": [
+    {
+      "name": "classification_unique_labels",
+      "passed": true,
+      "n": 639
+    },
+    {
+      "name": "classification_blind_labels_complete",
+      "passed": true,
+      "n": 34
+    },
+    {
+      "name": "classification_train_blind_ids_disjoint",
+      "passed": true
+    },
+    {
+      "name": "tg_unique_labels",
+      "passed": true,
+      "n": 263
+    },
+    {
+      "name": "tg_blind_labels_complete",
+      "passed": true,
+      "n": 20
+    },
+    {
+      "name": "tg_train_blind_ids_disjoint",
+      "passed": true
+    },
+    {
+      "name": "classification_split_counts",
+      "passed": true,
+      "counts": {
+        "Train": 511,
+        "Internal_evaluation": 128
+      }
+    },
+    {
+      "name": "tg_split_counts",
+      "passed": true,
+      "n_train": 208,
+      "n_test": 55
+    },
+    {
+      "name": "tg_parent_groups_disjoint",
+      "passed": true,
+      "train_groups": 26,
+      "test_groups": 7
+    },
+    {
+      "name": "classification_final60_unique",
+      "passed": true
+    },
+    {
+      "name": "classification_metadata_not_features",
+      "passed": true
+    },
+    {
+      "name": "classification_features_in_master",
+      "passed": true
+    },
+    {
+      "name": "tg_final60_unique",
+      "passed": true
+    },
+    {
+      "name": "tg_metadata_not_features",
+      "passed": true
+    },
+    {
+      "name": "tg_features_in_master",
+      "passed": true
+    },
+    {
+      "name": "classification_ratio_matches_directed",
+      "passed": true,
+      "n_ratio_columns": 5667,
+      "finite_comparisons": 3547287,
+      "directed_mismatches": 0,
+      "absolute_mismatches": 172694,
+      "epsilon": 1e-06
+    },
+    {
+      "name": "tg_parent_ratio_matches_directed",
+      "passed": true,
+      "n_ratio_columns": 5667,
+      "finite_comparisons": 1482750,
+      "directed_mismatches": 0,
+      "absolute_mismatches": 67193,
+      "epsilon": 1e-06
+    },
+    {
+      "name": "tg_train_water_range",
+      "passed": true
+    },
+    {
+      "name": "tg_train_scaling_codes",
+      "passed": true
+    },
+    {
+      "name": "tg_train_all_column_scaling",
+      "passed": true,
+      "n_features": 56682,
+      "n_entries": 14907366,
+      "mismatches": 0
+    },
+    {
+      "name": "tg_target_unchanged",
+      "passed": true
+    },
+    {
+      "name": "tg_blind_water_range",
+      "passed": true
+    },
+    {
+      "name": "tg_blind_scaling_codes",
+      "passed": true
+    },
+    {
+      "name": "tg_blind_all_column_scaling",
+      "passed": true,
+      "n_features": 56682,
+      "n_entries": 1133640,
+      "mismatches": 0
+    },
+    {
+      "name": "crossfit_tg_original_AB_interactions",
+      "passed": true,
+      "r2": 0.1302547047290148,
+      "n_unique_codes": 263,
+      "n_rows": 263
+    },
+    {
+      "name": "crossfit_tg_original_Arithmetic_mean",
+      "passed": true,
+      "r2": 0.40715236572739,
+      "n_unique_codes": 263,
+      "n_rows": 263
+    },
+    {
+      "name": "crossfit_tg_original_Component_A",
+      "passed": true,
+      "r2": 0.1687066842231133,
+      "n_unique_codes": 263,
+      "n_rows": 263
+    },
+    {
+      "name": "crossfit_tg_original_Component_A_plus_B",
+      "passed": true,
+      "r2": 0.15681408719848178,
+      "n_unique_codes": 263,
+      "n_rows": 263
+    },
+    {
+      "name": "crossfit_tg_original_Component_B",
+      "passed": true,
+      "r2": 0.15358547393772137,
+      "n_unique_codes": 263,
+      "n_rows": 263
+    },
+    {
+      "name": "crossfit_tg_original_Weighted_mixture",
+      "passed": true,
+      "r2": 0.5484080236738019,
+      "n_unique_codes": 263,
+      "n_rows": 263
+    },
+    {
+      "name": "nested_test_members_1,2-Decanediol",
+      "passed": true,
+      "n_test": 15
+    },
+    {
+      "name": "nested_test_members_1-Naphthol",
+      "passed": true,
+      "n_test": 14
+    },
+    {
+      "name": "nested_test_members_1-Tetradecanol",
+      "passed": true,
+      "n_test": 15
+    },
+    {
+      "name": "nested_test_members_Arginine",
+      "passed": true,
+      "n_test": 15
+    },
+    {
+      "name": "nested_test_members_Atropine",
+      "passed": true,
+      "n_test": 15
+    },
+    {
+      "name": "nested_test_members_Betaine",
+      "passed": true,
+      "n_test": 72
+    },
+    {
+      "name": "nested_test_members_Cholinechloride",
+      "passed": true,
+      "n_test": 183
+    },
+    {
+      "name": "nested_test_members_Citricacid",
+      "passed": true,
+      "n_test": 37
+    },
+    {
+      "name": "nested_test_members_Decanoicacid",
+      "passed": true,
+      "n_test": 29
+    },
+    {
+      "name": "nested_test_members_Dodecanoicacid",
+      "passed": true,
+      "n_test": 26
+    },
+    {
+      "name": "nested_test_members_Fructose",
+      "passed": true,
+      "n_test": 39
+    },
+    {
+      "name": "nested_test_members_Glucose",
+      "passed": true,
+      "n_test": 74
+    },
+    {
+      "name": "nested_test_members_Glycerol",
+      "passed": true,
+      "n_test": 88
+    },
+    {
+      "name": "nested_test_members_GuanidiniumHCl",
+      "passed": true,
+      "n_test": 16
+    },
+    {
+      "name": "nested_test_members_Lidocaine",
+      "passed": true,
+      "n_test": 15
+    },
+    {
+      "name": "nested_test_members_Malicacid",
+      "passed": true,
+      "n_test": 43
+    },
+    {
+      "name": "nested_test_members_Malonicacid",
+      "passed": true,
+      "n_test": 8
+    },
+    {
+      "name": "nested_test_members_Maltose",
+      "passed": true,
+      "n_test": 9
+    },
+    {
+      "name": "nested_test_members_Menthol",
+      "passed": true,
+      "n_test": 61
+    },
+    {
+      "name": "nested_test_members_Proline",
+      "passed": true,
+      "n_test": 33
+    },
+    {
+      "name": "nested_test_members_Propyleneglycol",
+      "passed": true,
+      "n_test": 10
+    },
+    {
+      "name": "nested_test_members_Sarcosine",
+      "passed": true,
+      "n_test": 6
+    },
+    {
+      "name": "nested_test_members_Sorbitol",
+      "passed": true,
+      "n_test": 45
+    },
+    {
+      "name": "nested_test_members_Sucrose",
+      "passed": true,
+      "n_test": 39
+    },
+    {
+      "name": "nested_test_members_Thymol",
+      "passed": true,
+      "n_test": 28
+    },
+    {
+      "name": "nested_test_members_Trehalose",
+      "passed": true,
+      "n_test": 25
+    },
+    {
+      "name": "nested_test_members_TrimethylamineN-oxide",
+      "passed": true,
+      "n_test": 10
+    },
+    {
+      "name": "nested_test_members_Urea",
+      "passed": true,
+      "n_test": 31
+    },
+    {
+      "name": "nested_test_members_Water",
+      "passed": true,
+      "n_test": 109
+    },
+    {
+      "name": "nested_test_members_Xylitol",
+      "passed": true,
+      "n_test": 22
+    },
+    {
+      "name": "nested_test_members_Xylose",
+      "passed": true,
+      "n_test": 6
+    }
+  ],
+  "observations": {
+    "classification_target": {
+      "n": 639,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "tg_target": {
+      "n": 263,
+      "min": 150.28,
+      "max": 220.61
+    },
+    "classification_ratio": {
+      "n_ratio_columns": 5667,
+      "finite_comparisons": 3547287,
+      "directed_mismatches": 0,
+      "absolute_mismatches": 172694,
+      "epsilon": 1e-06
+    },
+    "tg_parent_ratio": {
+      "n_ratio_columns": 5667,
+      "finite_comparisons": 1482750,
+      "directed_mismatches": 0,
+      "absolute_mismatches": 67193,
+      "epsilon": 1e-06
+    },
+    "nested_selected_features_columns": [
+      "held_out_component",
+      "rank_in_selected_set",
+      "feature"
+    ],
+    "nested_prediction_folds": 31,
+    "ab_swap_saved_outputs": [],
+    "original_environment_lock_files": []
+  },
+  "audit_environment_not_original": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "packages": {
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.5.2",
+      "xgboost": "2.1.3",
+      "joblib": "1.5.3",
+      "statsmodels": null
+    }
+  }
+}

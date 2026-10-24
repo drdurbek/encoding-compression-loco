@@ -1,0 +1,26 @@
+[
+  {
+    "analysis": "classification_heldout",
+    "n": 128,
+    "max_abs_difference": 0.0,
+    "allclose_1e-6": true
+  },
+  {
+    "analysis": "classification_blind",
+    "n": 34,
+    "max_abs_difference": 0.0,
+    "allclose_1e-6": true
+  },
+  {
+    "analysis": "tg_heldout",
+    "n": 55,
+    "max_abs_difference": 8.526512829121202e-14,
+    "allclose_1e-6": true
+  },
+  {
+    "analysis": "tg_blind",
+    "n": 20,
+    "max_abs_difference": 8.526512829121202e-14,
+    "allclose_1e-6": true
+  }
+]

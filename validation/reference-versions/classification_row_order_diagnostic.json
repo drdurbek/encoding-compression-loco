@@ -1,0 +1,6 @@
+{
+  "same_partition_membership": true,
+  "training_row_order": "sklearn train_test_split output, seed42, stratify y",
+  "max_abs_difference": 0.2282595035119629,
+  "mean_abs_difference": 0.019300254610359228
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "master_train_features.csv",
+    "column_order_equal": true,
+    "n_rows": 639,
+    "numeric_entries_compared": 36220437,
+    "mismatches": 0,
+    "codes_equal": true,
+    "parent_groups_equal": true,
+    "mismatched_columns": []
+  },
+  {
+    "path": "master_blind_features.csv",
+    "column_order_equal": true,
+    "n_rows": 34,
+    "numeric_entries_compared": 1927188,
+    "mismatches": 0,
+    "codes_equal": true,
+    "parent_groups_equal": true,
+    "mismatched_columns": []
+  },
+  {
+    "path": "TG/master_train_features1.csv",
+    "column_order_equal": true,
+    "n_rows": 263,
+    "numeric_entries_compared": 14907629,
+    "mismatches": 0,
+    "codes_equal": true,
+    "parent_groups_equal": true,
+    "mismatched_columns": []
+  },
+  {
+    "path": "TG/master_blind_features1.csv",
+    "column_order_equal": true,
+    "n_rows": 20,
+    "numeric_entries_compared": 1133640,
+    "mismatches": 0,
+    "codes_equal": true,
+    "parent_groups_equal": true,
+    "mismatched_columns": []
+  },
+  {
+    "path": "TG/master_train_features.csv",
+    "column_order_equal": true,
+    "n_rows": 263,
+    "numeric_entries_compared": 14907629,
+    "mismatches": 0,
+    "codes_equal": true,
+    "parent_groups_equal": true,
+    "mismatched_columns": []
+  },
+  {
+    "path": "TG/master_blind_features.csv",
+    "column_order_equal": true,
+    "n_rows": 20,
+    "numeric_entries_compared": 1133640,
+    "mismatches": 0,
+    "codes_equal": true,
+    "parent_groups_equal": true,
+    "mismatched_columns": []
+  }
+]
