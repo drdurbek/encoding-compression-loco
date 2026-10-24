@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+data/project/*
+!data/project/README.md
+run_outputs/
+*.joblib
+
+Curated/
+Zenodo_Curated/
+work/
+checks/
